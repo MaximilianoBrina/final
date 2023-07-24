@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>enviarDatosServlet</servlet-name>
+    <servlet-class>FenviarDatosServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>enviarDatosServlet</servlet-name>
+    <url-pattern>/display-data</url-pattern>
+</servlet-mapping>
